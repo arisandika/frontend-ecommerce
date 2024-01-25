@@ -3909,7 +3909,7 @@ address {
 
 @media only screen and (max-width: 991px) {
   .tab-content {
-    padding: 10px 20px 0 20px;
+    padding: 30px 25px 0 25px;
     overflow: hidden;
   }
 }
